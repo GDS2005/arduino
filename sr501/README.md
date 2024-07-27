@@ -10,7 +10,7 @@
 | 3 | GND |
 
 ### Diagram
-<img src="https://github.com/GDS2005/arduino/blob/main/dht22/circuit.jpg" alt="dht22 Image" width="600"/>
+<img src="https://github.com/GDS2005/arduino/blob/main/sr501/circuit.jpg" alt="dht22 Image" width="600"/>
 
 ### Usage
 * Open the code file with Arduino IDE.
