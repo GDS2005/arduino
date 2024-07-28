@@ -7,3 +7,4 @@
 | --- | --- |
 | dht22 | Humidity and Temperature sensor |
 | sr501 | Movement sensor |
+| hc-sr04 | Ultrasonic sensor |
