@@ -21,6 +21,8 @@ Analog pins on the Arduino Uno are used to read analog signals, which are contin
 | hc-sr04 | Ultrasonic sensor |
 | lm393 | Light Sensor |
 | sg90 | Servo Motor |
+| hc-05 | Bluetooh module |
+| relay | Switch |
 
 ## Run projects
 1. Open the code file with Arduino IDE.
